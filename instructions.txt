@@ -1,0 +1,3 @@
+create a github account
+create a repository
+create a new file
